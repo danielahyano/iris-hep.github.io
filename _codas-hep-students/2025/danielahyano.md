@@ -19,7 +19,7 @@ I am working on charmonium detection in Ultraperipheral collisions (UPCs) with C
 Data Science, ROOT.  
 
 ## A problem I'm grappling with:
-Optimization of data processing and how to effectively deal with separating noise and background.  
+Optimization of data processing and how to effectively deal with separating signal and background.  
 
 ## I've got my eyes on:
 Machine learning applications. 
